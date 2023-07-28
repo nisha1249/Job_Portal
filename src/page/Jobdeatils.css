@@ -1,0 +1,23 @@
+.job-list{
+    padding-top: 50px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.job-details p{
+    width: 500px;
+    padding: 20px;
+    margin-left: -15px;
+}
+.btn1{
+    height: 50px;
+    width: 225px;
+    background-color: #1118e8c7;
+    color: white;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 0px;
+    margin-left: -30px;
+    border-color: transparent;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+}
+.navbar img{
+    height: 8rem;
+    width: 14rem;
+}
+.navbar-option {
+    display: flex;
+}
+.navbar-option ul li{
+    float: left;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding-top: 4.5rem;
+    padding-left: 5rem;
+    font-weight: 700;
+    font-size: 19px;
+    color: grey;
+}
